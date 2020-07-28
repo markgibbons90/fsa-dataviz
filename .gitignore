@@ -1,0 +1,4 @@
+data/raw/FSA_data_competition_2020.csv
+data/raw/countries
+data/final/
+*/**/__pycache__
